@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_search_url_text_holo.xml",
+        "source": "/home/dipu/.android/build-cache/9319af4d114c7781c2cc15719cae35ee7a73a76d/output/res/color/abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/dipu/.android/build-cache/347ecc2a8b63e9793feb272d7f2a790d76a195ee/output/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_dark.xml",
+        "source": "/home/dipu/.android/build-cache/118b59cebe9fb577efbd35efb86806f8a6642472/output/res/color/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/dipu/.android/build-cache/347ecc2a8b63e9793feb272d7f2a790d76a195ee/output/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/common_signin_btn_text_light.xml",
+        "source": "/home/dipu/.android/build-cache/118b59cebe9fb577efbd35efb86806f8a6642472/output/res/color/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/dipu/AndroidStudioProjects/It'sMovieTime2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/dipu/.android/build-cache/310414ffc4b7f85a6c7e15c37e43df47833f201a/output/res/color/switch_thumb_material_light.xml"
+    }
+]
